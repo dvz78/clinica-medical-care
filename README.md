@@ -108,7 +108,7 @@ Este proyecto está bajo la **Licencia de Uso No Comercial**.
 
 Si deseas usar este sistema con fines comerciales (vender, licenciar, o integrar en producto comercial), debes contactar al creador:
 
-📧 **Contacto**: [Tu Email Aquí]
+📧 **Contacto**: dariovilar78@gmail.com
 
 Ver el archivo [LICENSE](LICENSE) para más detalles.
 
